@@ -28,11 +28,20 @@
 
 Here are some of the applications I've built:
 
-- **Planit - Event Management** → [Live Demo](#) | [Repo](#)
-- **Tawasi Food Delivery Driver App** → [Live Demo](#) | [Repo](#)
-- **AI ToolHub - Ultimate AI Tools Kit** → [Live Demo](#) | [Repo](#)
-- **School Certificate Management App** → [Live Demo](#) | [Repo](#)
+## Planit
+[![Android](https://img.shields.io/badge/Android-Show-brightgreen)](https://play.google.com/store/apps/details?id=com.planit.customer)
+[![iOS](https://img.shields.io/badge/iOS-Show-blue)](https://apps.apple.com/us/app/planit/id6737801742)
 
+## Tawasi Driver
+[![Android](https://img.shields.io/badge/Android-Show-brightgreen)](https://play.google.com/store/apps/details?id=com.app.tawasidriver)
+[![iOS](https://img.shields.io/badge/iOS-Show-blue)](https://apps.apple.com/us/app/tawasi-driver-%D9%83%D8%A7%D8%A8%D8%AA%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%8A/id6478497062)
+
+## Quickly Driver
+[![Android](https://img.shields.io/badge/Android-Show-brightgreen)](https://play.google.com/store/apps/details?id=com.app.quicklydriver)
+[![iOS](https://img.shields.io/badge/iOS-Show-blue)](https://apps.apple.com/in/app/quickly-driver/id6651842674)
+
+## AI Toolhub
+[![Android](https://img.shields.io/badge/Android-Show-brightgreen)](https://play.google.com/store/apps/details?id=com.ikapps.aitoolhub)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
